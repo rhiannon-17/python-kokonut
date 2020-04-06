@@ -8,4 +8,4 @@ def eratosthene(b):
                 liste[k] = False
 
 def main():
-    print("hello")
+    print("kokonut song")
