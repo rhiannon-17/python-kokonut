@@ -6,3 +6,6 @@ def eratosthene(b):
             yield i
             for k in range(i**2, b+1, i):
                 liste[k] = False
+
+def main():
+    print("hello")
