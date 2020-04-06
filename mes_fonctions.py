@@ -8,4 +8,7 @@ def eratosthene(b):
                 liste[k] = False
 
 def main():
+
     print("kokonut song")
+    print("kiki et bibi et koko")
+
